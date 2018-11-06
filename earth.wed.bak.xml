@@ -34,7 +34,7 @@
             <children/>
             <hierarchy name="selection"/>
             <selection>
-                <sel id="114"/>
+                <sel id="257"/>
             </selection>
         </object>
         <object class="WED_AirportNode" id="130" parent_id="114">
@@ -1131,7 +1131,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="31.324612210" longitude="35.387162798" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="31.324610820" longitude="35.387188829" split="0"/>
             <facade_node wall_type="Wall 1"/>
         </object>
         <object class="WED_FacadeNode" id="258" parent_id="254">
@@ -1146,15 +1146,15 @@
     <prefs>
         <pref name="PropertyPane0/Closed"/>
         <pref name="doc/export_target" value="4"/>
-        <pref name="map/east" value="35.391539"/>
-        <pref name="map/north" value="31.334089"/>
+        <pref name="map/east" value="35.387699"/>
+        <pref name="map/north" value="31.325450"/>
         <pref name="map/obj_density" value="1"/>
         <pref name="map/pavement_alpha" value="1"/>
         <pref name="map/preview_vis" value="1"/>
         <pref name="map/real_lines_vis" value="1"/>
-        <pref name="map/south" value="31.322304"/>
+        <pref name="map/south" value="31.324128"/>
         <pref name="map/vertices_vis" value="1"/>
-        <pref name="map/west" value="35.379035"/>
+        <pref name="map/west" value="35.386297"/>
         <pref name="map/world_map_vis" value="1"/>
         <pref name="map_Airport Beacon_Kind" value="69"/>
         <pref name="map_Boundary_.Markings" value=""/>
